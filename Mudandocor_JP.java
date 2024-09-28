@@ -1,7 +1,8 @@
 import javax.swing.*;
 import java.awt.Color;
 
-public class CustomJOptionPane {
+public class Mudandocor_JP
+    {
     public static void main(String[] args) 
     {
         // Define a cor de fundo do JOptionPane usando valores RGB para rosa claro
